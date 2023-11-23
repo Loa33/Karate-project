@@ -1,0 +1,16 @@
+{
+  "statusCode": 201,
+  "body": {
+    "name": "morpheus",
+    "job": "leader"
+  },
+  "headers": {
+    "Content-type": "application/json"
+  },
+  "responseMatch": {
+    "name": "morpheus",
+    "job": "leader",
+    "id": "302",
+    "createdAt": "2023-11-22T01:37:26.300Z"
+  }
+}

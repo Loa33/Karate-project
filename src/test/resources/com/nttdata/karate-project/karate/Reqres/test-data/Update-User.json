@@ -1,0 +1,16 @@
+{
+  "statusCode": 200,
+  "id": 2,
+  "body": {
+    "name": "morpheus",
+    "job": "zion resident"
+  },
+  "headers": {
+    "Content-type": "application/json"
+  },
+  "responseMatch": {
+    "name": "morpheus",
+    "job": "zion resident",
+    "updatedAt": "2023-11-22T03:41:03.050Z"
+  }
+}
