@@ -6,8 +6,8 @@ function fn() {
         return {
           name: params.name,
           job: params.job,
-          id: '#ignore',
-          createdAt: '#ignore'
+          id: '#string',
+          createdAt: '#notnull'
         };
     };
 
@@ -15,7 +15,7 @@ function fn() {
       return {
           name: params.name,
           job: params.job,
-          updatedAt: '#ignore'
+          updatedAt: '#notnull'
       };
     };
 
